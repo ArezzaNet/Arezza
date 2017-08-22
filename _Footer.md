@@ -1,0 +1,2 @@
+![](https://pbs.twimg.com/profile_images/570936206670569472/QbL8Zlor_bigger.jpeg )  
+**The Arezza Network** managed by **Tema**  **[facebook](https://www.facebook.com/arezzanetwork)** **[google+](https://plus.google.com/u/0/+JohnLeboffe/posts)** **[twitter](https://twitter.com/arezza1)**  **[linkedin](https://www.linkedin.com/in/john-leboffe-8bb44032)**  **blog**  **[I Wanna Tell You a Story](https://arezzanetwork.blogspot.com)** 
