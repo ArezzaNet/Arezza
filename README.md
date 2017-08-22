@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+ ![logo](https://pbs.twimg.com/profile_images/570936206670569472/QbL8Zlor_bigger.jpeg)
+### _**Local Knowledge Global Reach**_
 
-You can use the [editor on GitHub](https://github.com/ArezzaNet/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Arezza** develops and funds economic development projects in collaboration with local partners in the areas of sustainable tourism, energy efficiency and water conservation. The word is from the dialect for a fisherman casting a net over places and people working together; it translates into Italian as rete, the word for network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Objective** achieve some measure of economies of scale in small towns and rural communities through the application of a team effort across multiple communities that share in the marketing and sales effort as well as revenue generation and sharing.
+ 
+_**A Commercial Strategy with Economies of Scale Revenue Based Funding and Sharing**_
 
-### Markdown
+![Harrisburg and the Susquehanna River](https://2.bp.blogspot.com/-oI05qJRn99o/WKMEOrHP6-I/AAAAAAAAE7Q/7Tt7OEOkQFsMPms1Jy9MSrhdxb5BdvGUgCLcB/s400/City%2BSkyline%2B-%2BAerial%2Bof%2BSenators%2BBallpark%2B-VisitHersheyHarrisburg.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Mission** create new sustainable wealth and economic opportunities by: improving local knowledge and expertise, ensuring accountability and responsibility by participants, educating clients about our communities to ensure respect for local values and traditions, utilizing market forces to achieve economies of scale and purchasing power, developing markets for products and services, focusing on sustainable projects in travel, energy efficiency and water conservation, generating capital resources for small enterprises, and partnering with local government and nonprofits to reach into a community.
 
-```markdown
-Syntax highlighted code block
+![Poughkeepsie NY](https://2.bp.blogspot.com/-11VKLKG_wzE/WCoWCJIUUwI/AAAAAAAAEvM/L2Qki1Ctl_kLVaC6cWj9H4kkbK2f7desgCLcB/s400/Poughkeepsie%252C%2BNY.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+_**Projects that Draw on Local History Traditions and Talents**_
 
-- Bulleted
-- List
+**Know More About Us**
 
-1. Numbered
-2. List
+**tema@arezza.net **skype** arezza1**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArezzaNet/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
