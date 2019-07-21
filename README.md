@@ -46,7 +46,7 @@
 
 **Travel Fees** are payable via your *bank secure online service* and/or USD Coin to payee tema@arezza.net
 
-*Google Pay* email - arezzanetwork@gmail.com - [Facebook Messenger] (https://m.me/arezzanetwork)
+*Google Pay* email - arezzanetwork@gmail.com - *Facebook Messenger* https://m.me/arezzanetwork
 
 For Bank Wire Transfers, coordinates are available upon request.
 
@@ -72,7 +72,7 @@ For Bank Wire Transfers, coordinates are available upon request.
 
 *Technologies* for reducing water use include control technologies that measure the moisture in the soil and tailor the irrigation schedule accordingly, rain sensors and rainfall shut-off devices that turn off irrigation on rainy days, and rotary spray sprinkler heads that lose less water to evaporation.
 
-_**Arezza Net** is operated by **Tema** - *Tourism + Environment Management*_
+**Arezza Net** is operated by **Tema** - *Tourism + Environment Management*
 
 8403 Colesville Road - suite 1100 - Silver Spring, Md. 20910
 
