@@ -15,6 +15,7 @@
       3	                 $0.80
       4	                 $0.60
       5+	                 $0.40
+      
 **Terms of Service**
 
 *Corriera* is via private car, van, bus and rail; it is inclusive of insurance, taxes, tolls, fuel and driver services, city to city and local transfers, where applicable. Tips are not included.
@@ -45,7 +46,7 @@
 
 **Travel Fees** are payable via your *bank secure online service* and/or USD Coin to payee tema@arezza.net
 
-*Google Pay* email - arezzanetwork@gmail.com - *Facebook Messenger* - https://m.me/arezzanetwork
+*Google Pay* email - arezzanetwork@gmail.com - *Facebook Messenger*(https://m.me/arezzanetwork)
 
 For Bank Wire Transfers, coordinates are available upon request.
 
