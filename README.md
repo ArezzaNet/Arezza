@@ -46,7 +46,7 @@
 
 **Travel Fees** are payable via your *bank secure online service* and/or USD Coin to payee tema@arezza.net
 
-*Google Pay* email - arezzanetwork@gmail.com - *Facebook Messenger*(https://m.me/arezzanetwork)
+*Google Pay* email - arezzanetwork@gmail.com - *Facebook Messenger (https://m.me/arezzanetwork)*
 
 For Bank Wire Transfers, coordinates are available upon request.
 
