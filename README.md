@@ -46,7 +46,7 @@
 
 **Travel Fees** are payable via your *bank secure online service* and/or USD Coin to payee tema@arezza.net
 
-*Google Pay* email - arezzanetwork@gmail.com - *Facebook Messenger (https://m.me/arezzanetwork)*
+*Google Pay* email - arezzanetwork@gmail.com - [Facebook Messenger] (https://m.me/arezzanetwork)
 
 For Bank Wire Transfers, coordinates are available upon request.
 
@@ -71,3 +71,11 @@ For Bank Wire Transfers, coordinates are available upon request.
 *The Cost of Water* is deceptively low as building owners and tenants pay for water twice; water supplied + water discharged to the sewer. Additional considerations include the cost of energy required to pump and heat water and rate increases over time from energy and water utilities. 
 
 *Technologies* for reducing water use include control technologies that measure the moisture in the soil and tailor the irrigation schedule accordingly, rain sensors and rainfall shut-off devices that turn off irrigation on rainy days, and rotary spray sprinkler heads that lose less water to evaporation.
+
+_**Arezza Net** is operated by **Tema** - *Tourism + Environment Management*_
+
+8403 Colesville Road - suite 1100 - Silver Spring, Md. 20910
+
+*email* tema@arezza.net  *tel* 240.338.6630   *skype* arezza1
+
+
