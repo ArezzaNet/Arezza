@@ -2,7 +2,7 @@
 
 *with Pay per Use On-Demand Services*
 
-**[Arezza Net] (https://www.facebook.com/arezzanetwork)** utilizes pay per use, on-demand services and other scalable and resilient value-driven outcomes in the sharing and circular economies such as pay-per-mile to satisfy client preferences in a collaborative system that delivers seamless customer experiences designed for maximum transparency, value, cost effectiveness and environmental sustainability for paying customers and service providers.
+**Arezza Net** utilizes pay per use, on-demand services and other scalable and resilient value-driven outcomes in the sharing and circular economies such as pay-per-mile to satisfy client preferences in a collaborative system that delivers seamless customer experiences designed for maximum transparency, value, cost effectiveness and environmental sustainability for paying customers and service providers.
 
 **Corriera** connects larger cities with air and rail service to smaller towns to benefit time-sensitive business travelers, vacationing families and groups as well as long distance commuters in collaboration with local and regional partners.
 
